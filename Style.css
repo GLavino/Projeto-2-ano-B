@@ -45,6 +45,7 @@
 }
 .estudantes{
     padding: 24px;
+    align-items: center;
 }
 .foto-professor{
     width: 150px;
