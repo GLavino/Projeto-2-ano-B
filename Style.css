@@ -48,6 +48,7 @@
 }
 .foto-professor{
     width: 150px;
+    align-items: center;
 }
 .nome-professor{
     text-align: center;
